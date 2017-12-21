@@ -1,4 +1,0 @@
-this is file 2 created to test git from command line.
-file 2: 09876
-1234567
-asdfghjkl
